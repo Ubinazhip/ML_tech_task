@@ -18,8 +18,11 @@
 - Best parameter search through GridSearchCV
 # Test
 - Test Results are saved in test_predicted.csv, in column 'TARGET'
+# runner.py
+- Run runner.py for feature selection, preprocessing and training with best parameters found using GridSearchCV
 # Future work
 - Dimensionality reduction techniques like PCA
 - Deal with class imbalance
 - Better feature selection, preprocessing
-- Better gridSearch for finding best parameters
+- Better gridSearch for finding best parameters - I did it only once because of lack of tine
+ 
