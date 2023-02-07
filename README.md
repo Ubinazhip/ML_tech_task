@@ -14,6 +14,7 @@
 - train/val/test sets after preprocessing is [here](https://drive.google.com/drive/folders/1I_9fAZyag02Gy9SdFNVCelLDbyCMgaqO?usp=sharing)
 # Target metric
 - [probabilistic F1 score](https://aclanthology.org/2020.eval4nlp-1.9.pdf) - works good for imbalance dataset
+- my results are pf train = 0.9818, pf val = 0.7500
 # Training
 - XGBoostClassifier
 - Best parameter search through GridSearchCV
