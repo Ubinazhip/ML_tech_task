@@ -5,7 +5,7 @@
 - Remove quasi constant columns(almost constant - 99% of data is one number)
 - Remove duplicated columns
 - Remove correlated columns, if correlation >= 0.8
--After feature selection we have only 118 features
+- **After feature selection we have only 116 features**
 # Preprocessing(Preprocessing.py)
 - FillNa numerical columns with with their mean
 - FillNa object columns with most_frequent strategy
