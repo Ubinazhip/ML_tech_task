@@ -27,3 +27,5 @@
 - Better feature selection, preprocessing
 - Better gridSearch for finding best parameters - I did it only once because of lack of tine
  
+# Author
+- Aslan Ubingazhibov
