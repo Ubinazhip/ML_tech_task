@@ -11,6 +11,7 @@
 - FillNa object columns with most_frequent strategy
 - One hot encoding of object columns
 - Standard Scaler of numerical columns - (x - mean)/std
+- train/val/test sets after preprocessing is [here](https://drive.google.com/drive/folders/1I_9fAZyag02Gy9SdFNVCelLDbyCMgaqO?usp=sharing)
 # Target metric
 - [probabilistic F1 score](https://aclanthology.org/2020.eval4nlp-1.9.pdf) - works good for imbalance dataset
 # Training
